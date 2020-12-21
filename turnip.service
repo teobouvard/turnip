@@ -1,0 +1,9 @@
+[Unit]
+Description=Notifies public IP changes
+Wants=turnip.timer
+
+[Service]
+ExecStart=/path/to/turnip --token bot_token --server server_name --channel channel_name
+
+[Install]
+WantedBy=default.target
