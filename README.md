@@ -1,6 +1,6 @@
 # turnip
 
-I often need to SSH into my home box when I'm travelling, but my ISP wants me to pay to have a static ip.
+I often need to SSH into my home box when I'm travelling, but my ISP wants me to pay to have a static IP.
 `turnip` helps me solve this problem, by notifying me of IP changes on Discord.
 
 ## Usage
@@ -19,5 +19,5 @@ I often need to SSH into my home box when I'm travelling, but my ISP wants me to
 Q: Discord ? Why not email ?  
 A: What is this, 1971 ?
 
-Q: Systemd ? Why not cron ?
+Q: Systemd ? Why not cron ?  
 A: What is this, 1975 ?
